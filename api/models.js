@@ -1,4 +1,5 @@
 const express = require('express');
+const cors = require('cors');
 const csv = require('csv-parser');
 const fs = require('fs');
 
@@ -28,3 +29,5 @@ router.get('/:model', (req, res) => {
       res.status(500).json({ error: 'Internal server error' });
     });
 });
+
+module.exports = router;
