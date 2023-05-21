@@ -1,0 +1,6 @@
+{
+  "homepage": "https://8an3.github.io/lillith/",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
