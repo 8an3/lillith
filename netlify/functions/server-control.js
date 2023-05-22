@@ -4,7 +4,7 @@
 const { exec } = require('child_process');
 
 // Constants for paths and commands
-const DATA_PATH = './data.csv';
+const DATA_PATH = '../../api/apiModels/data.csv';
 const SERVER_START_COMMAND = 'node app.js';
 const SERVER_STOP_COMMAND = 'killall node';
 
@@ -60,4 +60,36 @@ module.exports = {
   clearData,
   updateData,
   startAndStopTimed,
+};
+const { exec } = require('child_process');
+
+// Constants for paths and commands
+const CARS_API_PATH = '../../api/apimodels/cars-api';
+const BOATS_API_PATH = '../../api/apiBoats/boats-api';
+
+// Function to start the server for the Cars API
+const startCarsServer = () => {
+  exec('node app.js', { cwd: CARS_API_PATH }, (error, stdout, stderr) => {
+    if (error) {
+      console.error(`Error starting Cars API server: ${error}`);
+      return;
+    }
+    console.log('Cars API server started successfully!');
+  });
+};
+// Function to start the server for the Boats API
+const startBoatsServer = () => {
+  exec('node app.js', { cwd: BOATS_API_PATH }, (error, stdout, stderr) => {
+    if (error) {
+      console.error(`Error starting Boats API server: ${error}`);
+      return;
+    }
+    console.log('Boats API server started successfully!');
+  });
+};
+
+// Export the functions for use as Netlify serverless functions
+module.exports = {
+  startCarsServer,
+  startBoatsServer,
 };
