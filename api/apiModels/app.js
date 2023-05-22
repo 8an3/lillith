@@ -7,7 +7,7 @@ const app = express();
 
 const models = [];
 
-fs.createReadStream('./api/data.csv')
+fs.createReadStream('./data.csv')
   .pipe(csv())
   .on('data', (data) => models.push(data))
   .on('end', () => {
@@ -17,11 +17,11 @@ fs.createReadStream('./api/data.csv')
 app.use(express.json());
 app.use(cors());
 
-app.get('/api/:models', (req, res) => {
+app.get('/models/:model', (req, res) => {
   res.json(models);
 });
 
-app.get('/api/models/:model', (req, res) => {
+app.get('/models/:model', (req, res) => {
   const { model } = req.params;
   const foundModel = models.find((m) => m.model === model);
   if (!foundModel) {

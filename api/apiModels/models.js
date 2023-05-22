@@ -10,7 +10,7 @@ router.get('/:model', (req, res) => {
   const { model } = req.params;
   const results = [];
 
-  fs.createReadStream('./api/data.csv')
+  fs.createReadStream('./data.csv')
     .pipe(csv())
     .on('data', (data) => {
       results.push(data);

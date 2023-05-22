@@ -7,7 +7,7 @@ const app = express();
 
 const models = [];
 
-fs.createReadStream('./src/pages/api/api/boats.csv')
+fs.createReadStream('./data.csv')
   .pipe(csv())
   .on('data', (data) => models.push(data))
   .on('end', () => {
@@ -17,11 +17,11 @@ fs.createReadStream('./src/pages/api/api/boats.csv')
 app.use(express.json());
 app.use(cors());
 
-app.get('/api/api/models/:model', (req, res) => {
+app.get('/models/:model', (req, res) => {
   res.json(models);
 });
 
-app.get('/api/boats/:model', (req, res) => {
+app.get('/models/:model', (req, res) => {
   const { model } = req.params;
   const foundModel = models.find((m) => m.model === model);
   if (!foundModel) {
@@ -31,6 +31,6 @@ app.get('/api/boats/:model', (req, res) => {
   res.json({ length,freight,trailer,boatEngineAndTrailerFees,engineRigging,enginePreRigPrice,nmma,engineFreight,msrp });
 });
 
-app.listen(3008, () => {
-  console.log('Server started on port 3008');
+app.listen(30010, () => {
+  console.log('Server started on port 30010');
 });
