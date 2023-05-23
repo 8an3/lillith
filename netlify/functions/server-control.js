@@ -54,10 +54,6 @@ const startAndStopTimed = () => {
   }, 10000); // 10 seconds
 };
 
-// Export the functions or endpoints for use as Netlify serverless functions
-
-const { exec } = require('child_process');
-
 // Constants for paths and commands
 const CARS_API_PATH = '../../api/apiModels/serverAPI';
 const BOATS_API_PATH = '../../api/apiBoats/serverAPI';
