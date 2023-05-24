@@ -531,33 +531,22 @@ ryker classic epic or exclusive panel color options 000f1pa00,ryker (600 ace), e
 ryker classic epic or exclusive panel color options 000f2pa00,ryker (900 ace), epic or exclusive panel color options,0F2PA,625,700,549,13599
 ryker sport classic epic or exclusive panel color options 000f5pa00,ryker sport (900 ace),"classic, epic or exclusive panel color options",0F5PA,625,700,549,15099
 ryker rally classic epic or exclusive panel color options 000f3pa00,ryker rally (900 ace),"classic, epic or exclusive panel color options",0F3PA,625,700,549,17499
-LT-A750XM3 Flame Red (YT9),LT-A750XM3,Flame Red (YT9),,350,100,Non-Power Steering,
-LT-A750XPM3 Flame Red (YT9),LT-A750XPM3,Flame Red (YT9),,350,100,"Power Steering, Carrier Covers",
-LT-A750XPM3 Terra Green(YLG),LT-A750XPM3,Terra Green(YLG),,350,100,"Power Steering, Carrier Covers",
-LT-A750XPZM3 Great Blue (YPW),LT-A750XPZM3,Great Blue (YPW),,350,100,"Power Steering, Mag wheels,
-Carrier Covers",
-LT-A750XPZSM3 Metallic Mat Rocky Gray(QTF),LT-A750XPZSM3,Metallic Mat Rocky Gray(QTF),,350,100,"Power Steering,Special Colour,
-Mag wheels, Carrier Covers",
-LT-A750XPZSM3 Cast Carbon(QZ8),LT-A750XPZSM3,Cast Carbon(QZ8),,350,100,"""Power Steering,Special Colour,
-Mag wheels, Carrier Covers""",
-LT-A750XPZCM3 True Timber Kanati(QTM),LT-A750XPZCM3,True Timber Kanati(QTM),,350,100,"Power Steering, Special Colour,
-Mag wheels, Carrier Covers",
-500 Series,500 Series,,,,,,
-LT-A500XM3 Terra Green(YLG),LT-A500XM3,Terra Green(YLG),,350,100,Non-Power Steering,
-LT-A500XPM3 Flame Red(YT9),LT-A500XPM3,Flame Red(YT9),,350,100,"Power Steering, Carrier Covers",
-LT-A500XPM3 Terra Green(YLG),LT-A500XPM3,Terra Green(YLG),,350,100,,
-LT-A500XPZM3 Great Blue (YPW),LT-A500XPZM3,Great Blue (YPW),,350,100,"Power Steering,Mag Wheels,
-Carrier Covers",
-LT-A500XPZSM3 Metallic Mat Rocky Gray(QTF),LT-A500XPZSM3,Metallic Mat Rocky Gray(QTF),,350,100,"Power Steering, Special Colour,
-Mag Wheels, Carrier Covers",
-LT-A500XPZSM3 Cast Carbon(QZ8),LT-A500XPZSM3,Cast Carbon(QZ8),,350,100,"Power Steering, Special Colour,
-Mag Wheels, Carrier Covers",
-LT-A500XPZCM3 True Timber Kanati(QTM),LT-A500XPZCM3,True Timber Kanati(QTM),,350,100,"Power Steering,Special Colour,
-Black Mag Wheels, Carrier Covers",
-400 Series,400 Series,,,,,,
-LT-A400FSM3 Metallic Mat Rocky Gray(QTF),LT-A400FSM3,Metallic Mat Rocky Gray(QTF),,350,100,Automatic,
-LT-A400FM3 Flame Red(YT9),LT-A400FM3,Flame Red(YT9),,350,100,Automatic,
-LT-F400FM3 Terra Green(YLG),LT-F400FM3,Terra Green(YLG),,350,100,Manual,
-KIDS ATV's ,KIDS ATV's,,,,,,
-LT-Z90M3 Champion Yellow No 2 (YU1),LT-Z90M3,Champion Yellow No 2 (YU1),,250,50,"Electric Start,Throttle Limiter, 6.0L Fuel Tank.",
-LT-Z50M3 Champion Yellow No 2 (YU1),LT-Z50M3,Champion Yellow No 2 (YU1),,250,50,"Electric Start, Throttle Limiter, 6.0L Fuel Tank."
+LT-A750XM3 Flame Red (YT9),LT-A750XM3,Flame Red (YT9),LT-A750XM3,350,100,695,11299
+LT-A750XPM3 Flame Red (YT9),LT-A750XPM3,Flame Red (YT9),LT-A750XPM3,350,100,695,12999
+LT-A750XPM3 Terra Green(YLG),LT-A750XPM3,Terra Green(YLG),LT-A750XPM3,350,100,695,12999
+LT-A750XPZM3 Great Blue (YPW),LT-A750XPZM3,Great Blue (YPW),LT-A750XPZM3,350,100,695,13699
+LT-A750XPZSM3 Metallic Mat Rocky Gray(QTF),LT-A750XPZSM3,Metallic Mat Rocky Gray(QTF),LT-A750XPZSM3,350,100,695,14299
+LT-A750XPZSM3 Cast Carbon(QZ8),LT-A750XPZSM3,Cast Carbon(QZ8),LT-A750XPZSM3,350,100,695,14299
+LT-A750XPZCM3 True Timber Kanati(QTM),LT-A750XPZCM3,True Timber Kanati(QTM),LT-A750XPZCM3,350,100,695,14299
+LT-A500XM3 Terra Green(YLG),LT-A500XM3,Terra Green(YLG),LT-A500XM3,350,100,695,10699
+LT-A500XPM3 Flame Red(YT9),LT-A500XPM3,Flame Red(YT9),LT-A500XPM3,350,100,695,12099
+LT-A500XPM3 Terra Green(YLG),LT-A500XPM3,Terra Green(YLG),LT-A500XPM3,350,100,695,12099
+LT-A500XPZM3 Great Blue (YPW),LT-A500XPZM3,Great Blue (YPW),LT-A500XPZM3,350,100,695,12899
+LT-A500XPZSM3 Metallic Mat Rocky Gray(QTF),LT-A500XPZSM3,Metallic Mat Rocky Gray(QTF),LT-A500XPZSM3,350,100,695,13499
+LT-A500XPZSM3 Cast Carbon(QZ8),LT-A500XPZSM3,Cast Carbon(QZ8),LT-A500XPZSM3,350,100,695,13499
+LT-A500XPZCM3 True Timber Kanati(QTM),LT-A500XPZCM3,True Timber Kanati(QTM),LT-A500XPZCM3,350,100,695,13499
+LT-A400FSM3 Metallic Mat Rocky Gray(QTF),LT-A400FSM3,Metallic Mat Rocky Gray(QTF),LT-A400FSM3,350,100,695,9399
+LT-A400FM3 Flame Red(YT9),LT-A400FM3,Flame Red(YT9),LT-A400FM3,350,100,695,8799
+LT-F400FM3 Terra Green(YLG),LT-F400FM3,Terra Green(YLG),LT-F400FM3,350,100,695,8499
+LT-Z90M3 Champion Yellow No 2 (YU1),LT-Z90M3,Champion Yellow No 2 (YU1),LT-Z90M3,250,50,695,3999
+LT-Z50M3 Champion Yellow No 2 (YU1),LT-Z50M3,Champion Yellow No 2 (YU1),LT-Z50M3,250,50,695,3099
