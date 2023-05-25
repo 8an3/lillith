@@ -1,42 +1,42 @@
 model,length,freight,trailer,boatEngineAndTrailerFees,engineRigging,enginePreRigPrice,nmma,engineFreight,msrp
-cruise bench 20 s115hp,20,2752,10750,1728,0,0,0,0,68295
-cruise bench 20 s150hp,20,2752,10750,1728,0,0,0,0,70215
-cruise bench 22 s115hp,22,2752,10750,1728,0,0,0,0,70538
-cruise bench 22 s150hp,22,2752,10750,1728,0,0,0,0,72458
-cruise switchback 22 s115hp,22,2752,10750,1728,0,0,0,0,71819
-cruise switchback 22 s150hp,22,2752,10750,1728,0,0,0,0,73739
-cruise switchback 24 s115hp,24,2752,10750,1728,0,0,0,0,75975
-cruise switchback 24 s150hp,24,2752,10750,1728,0,0,0,0,75975
+cruise bench 20 s115hp,20,2752,10750,1728,0,0,54,0,68295
+cruise bench 20 s150hp,20,2752,10750,1728,0,0,54,0,70215
+cruise bench 22 s115hp,22,2752,10750,1728,0,0,54,0,70538
+cruise bench 22 s150hp,22,2752,10750,1728,0,0,54,0,72458
+cruise switchback 22 s115hp,22,2752,10750,1728,0,0,54,0,71819
+cruise switchback 22 s150hp,22,2752,10750,1728,0,0,54,0,73739
+cruise switchback 24 s115hp,24,2752,10750,1728,0,0,54,0,75975
+cruise switchback 24 s150hp,24,2752,10750,1728,0,0,54,0,75975
 explore bench 22,22,2752,10750,1728,899,4073,77,128,76580
 explore bench 22 trifold bench,22,2752,10750,1728,899,4073,77,128,77540
-explore bench 22 s115hp,22,2752,10750,1728,0,0,0,0,85126
-explore bench 22 s115hp trifold bench,22,2752,10750,1728,0,0,0,0,86086
-explore bench 22 s150hp,22,2752,10750,1728,0,0,0,0,87046
-explore bench 22 s150hp trifold bench,22,2752,10750,1728,0,0,0,0,88006
+explore bench 22 s115hp,22,2752,10750,1728,0,0,54,0,85126
+explore bench 22 s115hp trifold bench,22,2752,10750,1728,0,0,54,0,86086
+explore bench 22 s150hp,22,2752,10750,1728,0,0,54,0,87046
+explore bench 22 s150hp trifold bench,22,2752,10750,1728,0,0,54,0,88006
 explore navigator 22 trifold bench,22,2752,10750,1728,899,4073,77,128,80100
-explore navigator 22 s115hp trifold bench,22,2752,10750,1728,0,0,0,0,88646
-explore navigator 22 s150hp trifold bench,22,2752,10750,1728,0,0,0,0,90566
+explore navigator 22 s115hp trifold bench,22,2752,10750,1728,0,0,54,0,88646
+explore navigator 22 s150hp trifold bench,22,2752,10750,1728,0,0,54,0,90566
 explore navigator 24 25x27x25 trifold bench,24,2752,10750,1728,899,4073,77,128,85603
 explore navigator 24 dual motor trifold bench,24,2752,10750,1728,1798,12364,77,128,100836
 explore navigator 24 trifold bench,24,2752,10750,1728,899,4073,77,128,82788
-explore navigator 24 s115hp trifold bench,24,2752,10750,1728,0,0,0,0,91334
-explore navigator 24 s150hp trifold bench,24,2752,10750,1728,0,0,0,0,93254
+explore navigator 24 s115hp trifold bench,24,2752,10750,1728,0,0,54,0,91334
+explore navigator 24 s150hp trifold bench,24,2752,10750,1728,0,0,54,0,93254
 explore navigator 26 25x27x25 trifold bench,26,3776,10750,1728,899,4073,77,128,88291
 explore navigator 26 dual motor trifold bench,26,3776,10750,1728,1798,12364,77,128,103523
-explore navigator 26 s115hp trifold bench,26,3776,10750,1728,0,0,0,0,94022
-explore navigator 26 s150hp trifold bench,26,3776,10750,1728,0,0,0,0,95942
+explore navigator 26 s115hp trifold bench,26,3776,10750,1728,0,0,54,0,94022
+explore navigator 26 s150hp trifold bench,26,3776,10750,1728,0,0,54,0,95942
 explore switchback 22 trifold bench,22,2752,10750,1728,899,4073,77,128,78820
-explore switchback 22 s115hp trifold bench,22,2752,10750,1728,0,0,0,0,87366
-explore switchback 22 s150hp trifold bench,22,2752,10750,1728,0,0,0,0,89286
+explore switchback 22 s115hp trifold bench,22,2752,10750,1728,0,0,54,0,87366
+explore switchback 22 s150hp trifold bench,22,2752,10750,1728,0,0,54,0,89286
 explore switchback 24 25x27x25 trifold bench,24,2752,10750,1728,899,4073,77,128,84323
 explore switchback 24 dual motor trifold bench,24,2752,10750,1728,1798,12364,77,128,99556
 explore switchback 24 trifold bench,24,2752,10750,1728,899,4073,77,128,81508
-explore switchback 24 s115hp trifold bench,24,2752,10750,1728,0,0,0,0,90054
-explore switchback 24 s150hp trifold bench,24,2752,10750,1728,0,0,0,0,91974
+explore switchback 24 s115hp trifold bench,24,2752,10750,1728,0,0,54,0,90054
+explore switchback 24 s150hp trifold bench,24,2752,10750,1728,0,0,54,0,91974
 explore switchback 26 25x27x25 trifold bench,26,3776,10750,1728,899,4073,77,128,87011
 explore switchback 26 dual motor trifold bench,26,3776,10750,1728,899,4073,77,128,102243
-explore switchback 26 s115hp trifold bench,26,3776,10750,1728,0,0,0,0,92742
-explore switchback 26 s150hp trifold bench,26,3776,10750,1728,0,0,0,0,94662
+explore switchback 26 s115hp trifold bench,26,3776,10750,1728,0,0,54,0,92742
+explore switchback 26 s150hp trifold bench,26,3776,10750,1728,0,0,54,0,94662
 lx rfx 23,23,2752,10750,1728,899,4073,77,128,99709
 lx rfx 23,23,2752,10750,1728,899,4073,77,128,102887
 lx rfx 23,23,2752,10750,1728,899,4073,77,128,106065
