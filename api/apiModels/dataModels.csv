@@ -342,7 +342,7 @@ mxz adr w blizzard pkg 129 850 e-tec ice ripper xt 1.25 e.s. catalyst grey udrb,
 mxz adr w blizzard pkg 137 850 e-tec ice ripper xt 1.25 e.s. black udrc,"mxz adr w blizzard pkg 137 850 e-tec ice ripper xt 1.25 e.s.",black,UDRC,640,0,695,19249
 mxz adr w blizzard pkg 137 850 e-tec ice ripper xt 1.25 e.s. catalyst grey udrd,"mxz adr w blizzard pkg 137 850 e-tec ice ripper xt 1.25 e.s.",catalyst grey,UDRD,640,,695,19549
 mxz adr w blizzard pkg 129 600r e-tec ice ripper xt 1.25 e.s. black uera,"mxz adr w blizzard pkg 129 600r e-tec ice ripper xt 1.25 e.s.",black,UERA,640,0,695,17499
-mxz adr w blizzard pkg 129 600r e-tec ice ripper xt 1.25 e.s. catalyst grey uerb,"mxz adr w blizzard pkg 129 600r e-tec ice ripper xt 1.25"" e.s.",catalyst grey,UERB,640,0,695,17799
+mxz adr w blizzard pkg 129 600r e-tec ice ripper xt 1.25 e.s. catalyst grey uerb,"mxz adr w blizzard pkg 129 600r e-tec ice ripper xt 1.25 e.s.",catalyst grey,UERB,640,0,695,17799
 mxz adr w blizzard pkg 137 600r e-tec ice ripper xt 1.25 e.s. black uerc,"mxz adr w blizzard pkg 137 600r e-tec ice ripper xt 1.2 e.s.",black,UERC,640,0,695,17799
 mxz adr w blizzard pkg 137 600r e-tec ice ripper xt 1.25 e.s. catalyst grey uerd,"mxz adr wblizzard pkg 137 600r e-tec ice ripper xt 1.25 e.s.",catalyst grey,UERD,640,0,695,18099
 mxz adrenaline 129 850 e-tec ripsaw 1.25 e.s. black bdrf,"mxz adrenaline 129 850 e-tec ripsaw 1.25 e.s.",black,BDRF,640,0,695,16999
@@ -363,7 +363,7 @@ renegade adr wand enduro pkg 850 e-tec ice ripper xt 1.25 e.s. wand 10.25 touchs
 renegade adr wand enduro pkg 600r e-tec ice ripper xt 1.25 e.s. wand 10.25 touchscreen black and neo yellow usra,"renegade adr wand enduro pkg 600r e-tec ice ripper xt 1.25 e.s. wand 10.25 touchscreen",black and neo yellow,USRA,640,0,695,19049
 renegade adr wand enduro pkg 900 ace turbo r ice ripper xt 1.25 e.s. wand 10.25 touchscreen black and neo yellow dpra,"renegade adr wand enduro pkg 900 ace turbo r ice ripper xt 1.25 e.s. wand 10.25 touchscreen",black and neo yellow,DPRA,640,0,695,22449
 renegade adr wand enduro pkg 900 ace turbo ice ripper xt 1.25 e.s. wand 10.25 touchscreen black and neo yellow drra,"renegade adr wand enduro pkg 900 ace turbo ice ripper xt 1.25 e.s. wand 10.25 touchscreen",black and neo yellow,DRRA,640,0,695,20649
-renegade adr wand enduro pkg 900 ace ice ripper xt 1.25 e.s. wand 10.25 touchscreen black and neo yellow unra,"renegade adr wand enduro pkg 900 ace ice ripper xt 1.25"" e.s. wand 10.25 touchscreen",black and neo yellow,UNRA,640,0,695,18799
+renegade adr wand enduro pkg 900 ace ice ripper xt 1.25 e.s. wand 10.25 touchscreen black and neo yellow unra,"renegade adr wand enduro pkg 900 ace ice ripper xt 1.2" e.s. wand 10.25 touchscreen",black and neo yellow,UNRA,640,0,695,18799
 renegade adrenaline 900 ace turbo r ripsaw 1.25 e.s. black dtrb,"renegade adrenaline 900 ace turbo r ripsaw 1.25 e.s.",black,DTRB,640,0,695,19099
 renegade adrenaline 900 ace turbo r ripsaw 1.25 e.s. neo yellow dtra,"renegade adrenaline 900 ace turbo r ripsaw 1.25 e.s.",neo yellow,DTRA,640,0,695,19399
 renegade adrenaline 900 ace turbo ripsaw 1.25 e.s. black durb,"renegade adrenaline 900 ace turbo ripsaw 1.25 e.s.",black,DURB,640,0,695,17299
@@ -424,51 +424,50 @@ skandic le 20 600r e-tec silent cobra 1.5 e.s. arctic desert alrb,"skandic le 20
 skandic le 20 600 efi silent cobra 1.5 e.s. black atrd,"skandic le 20 600 efi silent cobra 1.5 e.s.",black,ATRD,640,0,695,13649
 skandic le 20 600 efi silent cobra 1.5 e.s. arctic desert atrb,"skandic le 20 600 efi silent cobra 1.5 e.s.",arctic desert,ATRB,640,0,695,13949
 skandic le 24 900 ace silent cobra 1.5 e.s. black anra,"skandic le 24 900 ace silent cobra 1.5 e.s.",black,ANRA,640,0,695,17399
-skandic le 24 900 ace silent cobra 1.5 e.s. (same as anra) black anrh,"skandic le 24 900 ace silent cobra 1.5"" e.s. (same as anra)",black,ANRH,640,0,695,17399
-skandic le 24 900 ace silent cobra 1.5 e.s. arctic desert anrb,"skandic le 24"" 900 ace silent cobra 1.5"" e.s.",arctic desert,ANRB,640,0,695,17699
-skandic le 24 600r e-tec silent cobra 1.5 e.s. black aura,"skandic le 24"" 600r e-tec silent cobra 1.5"" e.s.",black,AURA,640,0,695,17949
-skandic le 24 600r e-tec silent cobra 1.5 e.s. arctic desert aurb,"skandic le 24"" 600r e-tec silent cobra 1.5"" e.s.",arctic desert,AURB,640,0,695,18249
-skandic sport 600 efi utility 1.25 e.s. neo yellow ajra,"skandic sport 600 efi utility 1.25"" e.s.",neo yellow,AJRA,640,0,695,12349
-tundra le 600 ace charger 1.5 e.s. black gnra,"tundra le 600 ace charger 1.5"" e.s.",black,GNRA,640,0,695,13749
-tundra le 600 efi charger 1.5 e.s. black gdra,"tundra le 600 efi charger 1.5"" e.s.",black,GDRA,640,0,695,11649
-tundra le 600 efi charger 1.5 e.s. (same as gdra) black gdrc,"tundra le 600 efi charger 1.5"" e.s. (same as gdra)",black,GDRC,640,0,695,11649
-tundra sport 600 ace cobra 1.6 e.s. neo yellow gmra,"tundra sport 600 ace cobra 1.6"" e.s.",neo yellow,GMRA,640,0,695,13099
-tundra sport 600 efi cobra 1.6 e.s. neo yellow gkra,"tundra sport 600 efi cobra 1.6"" e.s.",neo yellow,GKRA,640,0,695,10949
-summit adr w edge pkg 146 850 e-tec powdermax flexedge 2.5 shot arctic desert ckrd,"summit adr wand edge pkg 146 850 e-tec powdermax flexedge 2.5"" shot",arctic desert,CKRD,640,0,695,17349
-summit adr w edge pkg 146 850 e-tec powdermax flexedge 2.5 shot timeless black ckrc,"summit adr wand edge pkg 146 850 e-tec powdermax flexedge 2.5"" shot",timeless black,CKRC,640,0,695,17649
-summit adr w edge pkg 154 850 e-tec powdermax light flexedge 2.5 shot arctic desert cgrc,"summit adr wand edge pkg 154 850 e-tec powdermax light flexedge 2.5"" shot",arctic desert,CGRC,640,0,695,17749
-summit adr w edge pkg 154 850 e-tec powdermax x-light flexedge 3.0 shot arctic desert cgrd,"summit adr wand edge pkg 154 850 e-tec powdermax x-light flexedge 3.0"" shot",arctic desert,CGRD,640,0,695,18149
-summit adr w edge pkg 154 850 e-tec powdermax light flexedge 2.5 shot timeless black cgra,"summit adr wand edge pkg 154 850 e-tec powdermax light flexedge 2.5"" shot",timeless black,CGRA,640,0,695,18049
-summit adr w edge pkg 154 850 e-tec powdermax x-light flexedge 3.0 shot timeless black cgrb,"summit adr wand edge pkg 154 850 e-tec powdermax x-light flexedge 3.0"" shot",timeless black,CGRB,640,0,695,18449
-summit adr w edge pkg 165 850 e-tec powdermax x-light flexedge 3.0 shot arctic desert chrb,"summit adr wand edge pkg 165 850 e-tec powdermax x-light flexedge 3.0"" shot",arctic desert,CHRB,640,0,695,18649
-summit adr w edge pkg 165 850 e-tec powdermax x-light flexedge 3.0 shot timeless black chra,"summit adr wand edge pkg 165 850 e-tec powdermax x-light flexedge 3.0"" shot",timeless black,CHRA,640,0,695,18949
-summit adr w edge pkg 146 600r e-tec powdermax flexedge 2.5 shot arctic desert ckrb,"summit adr wand edge pkg 146 600r e-tec powdermax flexedge 2.5"" shot",arctic desert,CKRB,640,0,695,15899
-summit adr w edge pkg 146 600r e-tec powdermax flexedge 2.5 shot timeless black ckra,"summit adr wand edge pkg 146 600r e-tec powdermax flexedge 2.5"" shot",timeless black,CKRA,640,0,695,16199
-summit adr w edge pkg 154 600r e-tec powdermax light flexedge 2.5 shot arctic desert cgrh,"summit adr wand edge pkg 154 600r e-tec powdermax light flexedge 2.5"" shot",arctic desert,CGRH,640,0,695,16299
-summit adr w edge pkg 154 600r e-tec powdermax light flexedge 2.5 shot timeless black cgrg,"summit adr wand edge pkg 154 600r e-tec powdermax light flexedge 2.5"" shot",timeless black,CGRG,640,0,695,16599
-summit adrenaline 146 850 e-tec powdermax flexedge 2.5 m.s. catalyst grey cdrf,"summit adrenaline 146 850 e-tec powdermax flexedge 2.5"" m.s.",catalyst grey,CDRF,640,0,695,16249
-summit adrenaline 146 850 e-tec powdermax flexedge 2.5 e.s. catalyst grey cdre,"summit adrenaline 146 850 e-tec powdermax flexedge 2.5"" e.s.",catalyst grey,CDRE,640,0,695,16749
-summit adrenaline 146 850 e-tec powdermax flexedge 2.5 shot catalyst grey cdrg,"summit adrenaline 146 850 e-tec powdermax flexedge 2.5"" shot",catalyst grey,CDRG,640,0,695,16999
-summit adrenaline 146 850 e-tec powdermax flexedge 2.5 e.s. timeless black cdrh,"summit adrenaline 146 850 e-tec powdermax flexedge 2.5"" e.s.",timeless black,CDRH,640,0,695,17049
-summit adrenaline 146 850 e-tec powdermax flexedge 2.5 shot timeless black cdrj,"summit adrenaline 146 850 e-tec powdermax flexedge 2.5"" shot",timeless black,CDRJ,640,0,695,17299
-summit adrenaline 154 850 e-tec powdermax light flexedge 2.5 m.s. catalyst grey cerh,"summit adrenaline 154 850 e-tec powdermax light flexedge 2.5"" m.s.",catalyst grey,CERH,640,0,695,16499
-summit adrenaline 154 850 e-tec powdermax light flexedge 2.5 e.s. catalyst grey cerg,"summit adrenaline 154 850 e-tec powdermax light flexedge 2.5"" e.s.",catalyst grey,CERG,640,0,695,16999
-summit adrenaline 154 850 e-tec powdermax light flexedge 2.5 shot catalyst grey cerf,"summit adrenaline 154 850 e-tec powdermax light flexedge 2.5"" shot",catalyst grey,CERF,640,0,695,17249
-summit adrenaline 154 850 e-tec powdermax light flexedge 2.5 e.s. timeless black cerj,"summit adrenaline 154 850 e-tec powdermax light flexedge 2.5"" e.s.",timeless black,CERJ,640,0,695,17299
-summit adrenaline 154 850 e-tec powdermax light flexedge 2.5 shot timeless black cerk,"summit adrenaline 154 850 e-tec powdermax light flexedge 2.5"" shot",timeless black,CERK,640,0,695,17549
-summit adrenaline 146 600r e-tec powdermax flexedge 2.5 m.s. catalyst grey cdrb,"summit adrenaline 146 600r e-tec powdermax flexedge 2.5"" m.s.",catalyst grey,CDRB,640,0,695,14799
-summit adrenaline 146 600r e-tec powdermax flexedge 2.5 e.s. catalyst grey cdra,"summit adrenaline 146 600r e-tec powdermax flexedge 2.5"" e.s.",catalyst grey,CDRA,640,0,695,15299
-summit adrenaline 146 600r e-tec powdermax flexedge 2.5 shot catalyst grey cdrk,"summit adrenaline 146 600r e-tec powdermax flexedge 2.5"" shot",catalyst grey,CDRK,640,0,695,15549
-summit adrenaline 146 600r e-tec powdermax flexedge 2.5 e.s. timeless black cdrc,"summit adrenaline 146 600r e-tec powdermax flexedge 2.5"" e.s.",timeless black,CDRC,640,0,695,15599
-summit adrenaline 146 600r e-tec powdermax flexedge 2.5 shot timeless black cdrd,"summit adrenaline 146 600r e-tec powdermax flexedge 2.5"" shot",timeless black,CDRD,640,0,695,15849
-summit adrenaline 154 600r e-tec powdermax light flexedge 2.5 m.s. catalyst grey cerd,"summit adrenaline 154 600r e-tec powdermax light flexedge 2.5"" m.s.",catalyst grey,CERD,640,0,695,15049
-summit adrenaline 154 600r e-tec powdermax light flexedge 2.5 e.s. catalyst grey cerc,"summit adrenaline 154 600r e-tec powdermax light flexedge 2.5"" e.s.",catalyst grey,CERC,640,0,695,15549
-summit adrenaline 154 600r e-tec powdermax light flexedge 2.5 shot catalyst grey cere,"summit adrenaline 154 600r e-tec powdermax light flexedge 2.5"" shot",catalyst grey,CERE,640,0,695,15799
-summit adrenaline 154 600r e-tec powdermax light flexedge 2.5 e.s. timeless black cera,"summit adrenaline 154 600r e-tec powdermax light flexedge 2.5"" e.s.",timeless black,CERA,640,0,695,15849
-summit adrenaline 154 600r e-tec powdermax light flexedge 2.5 shot timeless black cerb,"summit adrenaline 154 600r e-tec powdermax light flexedge 2.5"" shot",timeless black,CERB,640,0,695,16099
-summit neo+ 600 efi (55) hurricane flexedge 1.75 e.s. lac neo yellow and black tvra,"summit neo+ 600 efi (55) hurricane flexedge 1.75"" e.s. lac",neo yellow and black,TVRA,640,0,695,10199
-summit neo 600 efi (40) cobra flexedge 1.6 e.s. lac neo yellow and catalyst grey tura,"summit neo 600 efi (40) cobra flexedge 1.6"" e.s. lac",neo yellow and catalyst grey,TURA,640,0,695,9149
-
+skandic le 24 900 ace silent cobra 1.5 e.s. (same as anra) black anrh,"skandic le 24 900 ace silent cobra 1.5 e.s. (same as anra)",black,ANRH,640,0,695,17399
+skandic le 24 900 ace silent cobra 1.5 e.s. arctic desert anrb,"skandic le 24 900 ace silent cobra 1.5 e.s.",arctic desert,ANRB,640,0,695,17699
+skandic le 24 600r e-tec silent cobra 1.5 e.s. black aura,"skandic le 24 600r e-tec silent cobra 1.5 e.s.",black,AURA,640,0,695,17949
+skandic le 24 600r e-tec silent cobra 1.5 e.s. arctic desert aurb,"skandic le 24 600r e-tec silent cobra 1.5 e.s.",arctic desert,AURB,640,0,695,18249
+skandic sport 600 efi utility 1.25 e.s. neo yellow ajra,"skandic sport 600 efi utility 1.25 e.s.",neo yellow,AJRA,640,0,695,12349
+tundra le 600 ace charger 1.5 e.s. black gnra,"tundra le 600 ace charger 1.5 e.s.",black,GNRA,640,0,695,13749
+tundra le 600 efi charger 1.5 e.s. black gdra,"tundra le 600 efi charger 1.5 e.s.",black,GDRA,640,0,695,11649
+tundra le 600 efi charger 1.5 e.s. (same as gdra) black gdrc,"tundra le 600 efi charger 1.5 e.s. (same as gdra)",black,GDRC,640,0,695,11649
+tundra sport 600 ace cobra 1.6 e.s. neo yellow gmra,"tundra sport 600 ace cobra 1.6 e.s.",neo yellow,GMRA,640,0,695,13099
+tundra sport 600 efi cobra 1.6 e.s. neo yellow gkra,"tundra sport 600 efi cobra 1.6 e.s.",neo yellow,GKRA,640,0,695,10949
+summit adr w edge pkg 146 850 e-tec powdermax flexedge 2.5 shot arctic desert ckrd,"summit adr wand edge pkg 146 850 e-tec powdermax flexedge 2.5 shot",arctic desert,CKRD,640,0,695,17349
+summit adr w edge pkg 146 850 e-tec powdermax flexedge 2.5 shot timeless black ckrc,"summit adr wand edge pkg 146 850 e-tec powdermax flexedge 2.5 shot",timeless black,CKRC,640,0,695,17649
+summit adr w edge pkg 154 850 e-tec powdermax light flexedge 2.5 shot arctic desert cgrc,"summit adr wand edge pkg 154 850 e-tec powdermax light flexedge 2.5 shot",arctic desert,CGRC,640,0,695,17749
+summit adr w edge pkg 154 850 e-tec powdermax x-light flexedge 3.0 shot arctic desert cgrd,"summit adr wand edge pkg 154 850 e-tec powdermax x-light flexedge 3.0 shot",arctic desert,CGRD,640,0,695,18149
+summit adr w edge pkg 154 850 e-tec powdermax light flexedge 2.5 shot timeless black cgra,"summit adr wand edge pkg 154 850 e-tec powdermax light flexedge 2.5 shot",timeless black,CGRA,640,0,695,18049
+summit adr w edge pkg 154 850 e-tec powdermax x-light flexedge 3.0 shot timeless black cgrb,"summit adr wand edge pkg 154 850 e-tec powdermax x-light flexedge 3.0 shot",timeless black,CGRB,640,0,695,18449
+summit adr w edge pkg 165 850 e-tec powdermax x-light flexedge 3.0 shot arctic desert chrb,"summit adr wand edge pkg 165 850 e-tec powdermax x-light flexedge 3.0 shot",arctic desert,CHRB,640,0,695,18649
+summit adr w edge pkg 165 850 e-tec powdermax x-light flexedge 3.0 shot timeless black chra,"summit adr wand edge pkg 165 850 e-tec powdermax x-light flexedge 3.0 shot",timeless black,CHRA,640,0,695,18949
+summit adr w edge pkg 146 600r e-tec powdermax flexedge 2.5 shot arctic desert ckrb,"summit adr wand edge pkg 146 600r e-tec powdermax flexedge 2.5 shot",arctic desert,CKRB,640,0,695,15899
+summit adr w edge pkg 146 600r e-tec powdermax flexedge 2.5 shot timeless black ckra,"summit adr wand edge pkg 146 600r e-tec powdermax flexedge 2.5 shot",timeless black,CKRA,640,0,695,16199
+summit adr w edge pkg 154 600r e-tec powdermax light flexedge 2.5 shot arctic desert cgrh,"summit adr wand edge pkg 154 600r e-tec powdermax light flexedge 2.5 shot",arctic desert,CGRH,640,0,695,16299
+summit adr w edge pkg 154 600r e-tec powdermax light flexedge 2.5 shot timeless black cgrg,"summit adr wand edge pkg 154 600r e-tec powdermax light flexedge 2.5 shot",timeless black,CGRG,640,0,695,16599
+summit adrenaline 146 850 e-tec powdermax flexedge 2.5 m.s. catalyst grey cdrf,"summit adrenaline 146 850 e-tec powdermax flexedge 2.5 m.s.",catalyst grey,CDRF,640,0,695,16249
+summit adrenaline 146 850 e-tec powdermax flexedge 2.5 e.s. catalyst grey cdre,"summit adrenaline 146 850 e-tec powdermax flexedge 2.5 e.s.",catalyst grey,CDRE,640,0,695,16749
+summit adrenaline 146 850 e-tec powdermax flexedge 2.5 shot catalyst grey cdrg,"summit adrenaline 146 850 e-tec powdermax flexedge 2.5 shot",catalyst grey,CDRG,640,0,695,16999
+summit adrenaline 146 850 e-tec powdermax flexedge 2.5 e.s. timeless black cdrh,"summit adrenaline 146 850 e-tec powdermax flexedge 2.5 e.s.",timeless black,CDRH,640,0,695,17049
+summit adrenaline 146 850 e-tec powdermax flexedge 2.5 shot timeless black cdrj,"summit adrenaline 146 850 e-tec powdermax flexedge 2.5 shot",timeless black,CDRJ,640,0,695,17299
+summit adrenaline 154 850 e-tec powdermax light flexedge 2.5 m.s. catalyst grey cerh,"summit adrenaline 154 850 e-tec powdermax light flexedge 2.5 m.s.",catalyst grey,CERH,640,0,695,16499
+summit adrenaline 154 850 e-tec powdermax light flexedge 2.5 e.s. catalyst grey cerg,"summit adrenaline 154 850 e-tec powdermax light flexedge 2.5 e.s.",catalyst grey,CERG,640,0,695,16999
+summit adrenaline 154 850 e-tec powdermax light flexedge 2.5 shot catalyst grey cerf,"summit adrenaline 154 850 e-tec powdermax light flexedge 2.5 shot",catalyst grey,CERF,640,0,695,17249
+summit adrenaline 154 850 e-tec powdermax light flexedge 2.5 e.s. timeless black cerj,"summit adrenaline 154 850 e-tec powdermax light flexedge 2.5 e.s.",timeless black,CERJ,640,0,695,17299
+summit adrenaline 154 850 e-tec powdermax light flexedge 2.5 shot timeless black cerk,"summit adrenaline 154 850 e-tec powdermax light flexedge 2.5 shot",timeless black,CERK,640,0,695,17549
+summit adrenaline 146 600r e-tec powdermax flexedge 2.5 m.s. catalyst grey cdrb,"summit adrenaline 146 600r e-tec powdermax flexedge 2.5 m.s.",catalyst grey,CDRB,640,0,695,14799
+summit adrenaline 146 600r e-tec powdermax flexedge 2.5 e.s. catalyst grey cdra,"summit adrenaline 146 600r e-tec powdermax flexedge 2.5 e.s.",catalyst grey,CDRA,640,0,695,15299
+summit adrenaline 146 600r e-tec powdermax flexedge 2.5 shot catalyst grey cdrk,"summit adrenaline 146 600r e-tec powdermax flexedge 2.5 shot",catalyst grey,CDRK,640,0,695,15549
+summit adrenaline 146 600r e-tec powdermax flexedge 2.5 e.s. timeless black cdrc,"summit adrenaline 146 600r e-tec powdermax flexedge 2.5 e.s.",timeless black,CDRC,640,0,695,15599
+summit adrenaline 146 600r e-tec powdermax flexedge 2.5 shot timeless black cdrd,"summit adrenaline 146 600r e-tec powdermax flexedge 2.5 shot",timeless black,CDRD,640,0,695,15849
+summit adrenaline 154 600r e-tec powdermax light flexedge 2.5 m.s. catalyst grey cerd,"summit adrenaline 154 600r e-tec powdermax light flexedge 2.5 m.s.",catalyst grey,CERD,640,0,695,15049
+summit adrenaline 154 600r e-tec powdermax light flexedge 2.5 e.s. catalyst grey cerc,"summit adrenaline 154 600r e-tec powdermax light flexedge 2.5 e.s.",catalyst grey,CERC,640,0,695,15549
+summit adrenaline 154 600r e-tec powdermax light flexedge 2.5 shot catalyst grey cere,"summit adrenaline 154 600r e-tec powdermax light flexedge 2.5 shot",catalyst grey,CERE,640,0,695,15799
+summit adrenaline 154 600r e-tec powdermax light flexedge 2.5 e.s. timeless black cera,"summit adrenaline 154 600r e-tec powdermax light flexedge 2.5 e.s.",timeless black,CERA,640,0,695,15849
+summit adrenaline 154 600r e-tec powdermax light flexedge 2.5 shot timeless black cerb,"summit adrenaline 154 600r e-tec powdermax light flexedge 2.5 shot",timeless black,CERB,640,0,695,16099
+summit neo+ 600 efi (55) hurricane flexedge 1.75 e.s. lac neo yellow and black tvra,"summit neo+ 600 efi (55) hurricane flexedge 1.75 e.s. lac",neo yellow and black,TVRA,640,0,695,10199
+summit neo 600 efi (40) cobra flexedge 1.6 e.s. lac neo yellow and catalyst grey tura,"summit neo 600 efi (40) cobra flexedge 1.6 e.s. lac",neo yellow and catalyst grey,TURA,640,0,695,9149
 hayabusa gsx1300rrqm3,hayabusa gsx1300rrqm3,,,350,250,295,22799
 gsx-rioooam3,gsx-rioooam3,,,350,250,295,20599
 gsx-rioooram3,gsx-rioooram3,,,350,250,295,23999
